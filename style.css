@@ -1,0 +1,35 @@
+#container {
+    display: flex;
+  }
+  
+  .main-div {
+    position: relative;
+    margin: auto;
+  }
+  
+  .div {
+    position: relative;
+    margin: auto;
+  }
+  
+  .text {
+    text-align: center;
+  }
+  
+  #liste {
+    list-style-position: inside;
+  }
+  
+  .router {
+    display: inline-block;
+  }
+  
+  .router2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .resim {
+    width: 250px;
+    height: 323px;
+  }
